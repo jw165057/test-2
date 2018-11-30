@@ -1,0 +1,33 @@
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #ed3c25;
+    height: 45px;
+}
+
+.leftcolumn {
+    background-color: #ffb500;
+    width: 30%;
+    float: left;
+    height: 150px;
+}
+
+.rightcolumn {
+    background-color: #46b225;
+    width: 70%;
+    float: left;
+    height: 150px;
+}
+
+.footer1 {
+    background-color: #00baff;
+    float: left;
+    width: 45%;
+}
+
+.footer2 {
+   background-color: #ff00f5
+}
